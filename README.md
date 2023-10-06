@@ -1,2 +1,2 @@
-# viscous_hypernet
-unsteady.py runs a basic code testing the steady and unsteady code
+# Parametric SSM
+burgers_mpc.py runs the MPC code.
